@@ -44,7 +44,7 @@ Turning messy data into dashboards that drive action, automating what slows team
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p> -->
-#### Programming & Automation
+#### Programming
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/SQL-Intermediate-276DC3?style=flat&logo=sql&logoColor=white" alt="SQL Skill Badge">
