@@ -19,7 +19,7 @@ Turning messy data into dashboards that drive action, automating what slows team
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-<!-- ### [🏆 Check Out My Full Portfolio Website](https://Manela8.github.io/) -->
+<!--### [🏆 Check Out My Full Portfolio Website](https://Manela8.github.io/)
       
 <!-- ## 🔭 What I'm Currently Working On 
 
@@ -30,15 +30,15 @@ Turning messy data into dashboards that drive action, automating what slows team
 ## 🌱 Currently Learning 
 
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.] -->
+- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
 <!-- ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!--> -->
+<!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 <!--#### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges --> 
+  <!-- 💡 Go to Shields.io to create your own badges 
 <!--  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
