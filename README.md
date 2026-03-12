@@ -38,7 +38,7 @@ Turning messy data into dashboards that drive action, automating what slows team
 
 <!--#### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges --> -->
+  <!-- 💡 Go to Shields.io to create your own badges --> 
 <!--  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
@@ -47,7 +47,7 @@ Turning messy data into dashboards that drive action, automating what slows team
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/SQL-Intermediate-276DC3?style=flat&logo=r&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-276DC3?style=flat&logo=sql&logoColor=white" alt="SQL Skill Badge">
 </p>
 
 <!--- #### Business Intelligence & Analytics
