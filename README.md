@@ -13,9 +13,12 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+🎯 Data Analyst → ML Engineer in progress
 
-Turning messy data into dashboards that drive action, automating what slows teams down, and predicting what's next. I love the "aha!" moment when data reveals something unexpected 📊🚀
+📊 Turning messy datasets into clear insights & actionable dashboards
+🤖 Building machine learning models & exploring AI/LLMs
+⚡ Automating what slows teams down
+🔍 Obsessed with the "aha!" moment when data reveals something unexpected
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
